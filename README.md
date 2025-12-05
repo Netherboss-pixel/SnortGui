@@ -17,7 +17,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/snortgui.git
+   git https://github.com/Railgun1337/SnortGui.git
    cd snortgui
 
 HOW TO RUN:
